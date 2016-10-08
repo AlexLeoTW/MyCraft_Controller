@@ -31,3 +31,6 @@ npm-debug.log
 
 # SSL Key
 ssl
+
+# Test files
+*_test.js
